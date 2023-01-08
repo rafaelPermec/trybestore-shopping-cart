@@ -2,6 +2,7 @@
   "name": "sd-0x-project-shopping-cart",
   "version": "1.0.0",
   "description": "Um ecommerce bolado do zero, integrando a API do Mercado Livre, em Vanilla Javascript",
+  "homepage": "https://rafaelpermec.github.io/trybestore-shopping-cart",
   "main": "script.js",
   "scripts": {
     "test": "jest",
@@ -24,16 +25,8 @@
       "**/tests/**/*.test.js?(x)"
     ]
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/betrybe/sd-0x-project-shopping-cart.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/betrybe/sd-0x-project-shopping-cart/issues"
-  },
-  "homepage": "https://github.com/betrybe/sd-0x-project-shopping-cart#readme",
   "dependencies": {
     "cypress": "4.3.0",
     "cypress-multi-reporters": "1.2.4",
