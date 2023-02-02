@@ -1,15 +1,37 @@
 # Boas vindas ao repositório do projeto de Carrinho de Compras!
 
+## Técnologias usadas
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+----
+
 ## Habilidades
 
 Nesse projeto, fui capaz de:
 
-- Fazer requisições a uma API *(Application Programming Interface)* do Mercado Livre;
+- Fazer requisições a uma API do Mercado Livre;
 - Utilizar os seus conhecimentos sobre JavaScript, CSS e HTML;
 - Trabalhar com funções assíncronas;
 - Implementar testes unitários.
 
 ---
+
+## Rodando o Projeto:
+
+<details>
+  <summary>
+    <code> Localmente </code>
+  </summary>
+</details>
+
+<details>
+  <summary>
+    <code> Cenário de Testes </code>
+  </summary>
 
 ### ESLint e Stylelint
 
@@ -60,3 +82,4 @@ Para executar e acompanhar a implementação da sua cobertura de testes, rode o 
 ```bash
 npm run test:coverage
 ```
+</details>
