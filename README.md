@@ -30,11 +30,11 @@ Nesse projeto, fui capaz de:
 - [x] Dê o fork no projeto e clone-o para sua maquina digitando o comando em seu terminal:
   
   ````bash
-  git clone git@github.com:rafaelPermec/pokemon-trainer-party.git
+  git clone git@github.com:rafaelPermec/trybestore-shopping-cart.git
   ````
 - [x] Entre com o comando em seu terminal, para entrar no diretório principal e instalar as dependências do projeto:
   ````bash
-  cd pokemon-trainer-party && npm install
+  cd trybestore-shopping-cart && npm install
     ````
 - [x] Digite o comando abaixo em seu terminal e espere o browser abrir o projeto!
   ````bash
