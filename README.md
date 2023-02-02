@@ -24,6 +24,15 @@ Nesse projeto, fui capaz de:
 
 <details>
   <summary>
+    <code> Browser / URL </code>
+  </summary>
+
+### Acesse o [Link de Deploy](https://rafaelpermec.github.io/trybestore-shopping-cart/).
+
+</details>
+
+<details>
+  <summary>
     <code> Localmente </code>
   </summary>
 
